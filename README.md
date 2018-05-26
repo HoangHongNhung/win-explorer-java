@@ -14,6 +14,22 @@ Câu 2 : Chức năng copy foder;
 Chức năng làm thêm newfile, rename, delete .
 
 ******************************************
+
+ **************************************************
+ CÁCH CHẠY CODE
+ 
+ 
+ CHẠY BẰNG ECLIPSE:
+ 
+ Tải project từ github ở dang file nén (.zip) hãy giải nén
+ 
+ Vào Eclipse, Chọn File > Open Project form File System.
+
+Chọn Directory> Chọn project vừa giải nén.
+
+Run file : Click chuột phải vào project vừa mở > Run As > Java Application.
+
+
 HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG CHÍNH COPY THƯ MỤC
 
 - chọn thư mục cần copy
@@ -25,7 +41,7 @@ Thư mục cần coppy sẽ được coppy vào một file. File con này sẽ �
 có nghĩa là toàn bộ file trong thư mục cần coppy đã được coppy 
 
 
-**********************************************
+
 CHỨC NĂNG PHỤ:
 
 
@@ -62,19 +78,9 @@ CHỨC NĂNG PHỤ:
  Click vào button delete 
  
  click Ok or ấn Enter .
- **************************************************
- CÁCH CHẠY CODE
  
  
- CHẠY BẰNG ECLIPSE:
  
- Tải project từ github và giải nén
- 
- Vào Eclipse, Chọn File > Open Project form File System.
-
-Chọn Directory> Chọn project vừa giải nén.
-
-Run file : Click chuột phải vào project vừa mở > Run As > Java Application.
 
  
  
@@ -82,7 +88,7 @@ Run file : Click chuột phải vào project vừa mở > Run As > Java Applicat
  
 ĐỐI VỚI NHỮNG DESKTOP CHƯA CÀI ĐẶT ECLIPSE THÌ CHẠY TỪNG DÒNG LỆNH:
  
-Tải project từ github, và giải nén đặt tên là winexplorer và đưa ra thư mục Desktop .
+Tải project từ github ở dang file nén (.zip) hãy giải nén giải nén và đặt tên là winexplorer và đưa ra thư mục Desktop .
 
 Mở cmd của window
 
