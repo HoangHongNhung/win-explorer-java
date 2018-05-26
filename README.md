@@ -13,7 +13,7 @@ Câu 2 : Chức năng copy foder;
 
 Chức năng làm thêm newfile, rename, delete .
 
-******************************************
+
 
  **************************************************
  CÁCH CHẠY CODE
@@ -28,6 +28,11 @@ Chức năng làm thêm newfile, rename, delete .
 Chọn Directory> Chọn project vừa giải nén.
 
 Run file : Click chuột phải vào project vừa mở > Run As > Java Application.
+
+Khi này giao diên File explorer xuất hiện bao gồm:
+- các cây thư mục chứa các thư mục và file ( dữ liệu từ desktop) chứa trong jpanel bên phải
+- Dữ liệu của file hoạc thư mục đang được chọn trên cây thư mục chứa trong jpanel trung tâm
+- Các button (chức năng) và quyền truy xuất đối với file hoặc thư mục đang được chọn chứa ở jpanel bên dưới
 
 
 HƯỚNG DẪN SỬ DỤNG CHỨC NĂNG CHÍNH COPY THƯ MỤC
